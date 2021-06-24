@@ -1,0 +1,2 @@
+rootProject.name = "Ratingbar in dialogue box"
+include ':app'
