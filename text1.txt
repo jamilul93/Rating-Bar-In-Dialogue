@@ -1,2 +1,4 @@
+
 Now conflict is resolved
 this is true
+
