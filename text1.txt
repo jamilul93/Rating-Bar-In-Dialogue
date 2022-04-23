@@ -1,2 +1,2 @@
-This is a text file 
-this will create git conflict
+Now conflict is resolved
+this is true
