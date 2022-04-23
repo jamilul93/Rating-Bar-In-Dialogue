@@ -1,2 +1,3 @@
 This is a text file 
 Now conflict is resolved
+this is true
