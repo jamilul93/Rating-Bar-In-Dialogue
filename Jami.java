@@ -13,7 +13,7 @@ class A {
    public int get_number(){
        return number;
    }
- A(String s1,int num) {
+public A(String s1,int num) {
      name=s1;
      number=num;
  }   
